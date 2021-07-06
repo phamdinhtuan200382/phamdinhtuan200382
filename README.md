@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on `Data Analytics`
 - 🥉 I have the experience to use `SQL` , `Python` and visualization tools such as `Power BI` , `Tableau` and `Google Data Studio`.
-- ♥ My biggest passion is become `Data Storyteller`
+- ♥ My biggest passion to become `Data Storyteller`
 
 
 <a href="mailto:dinhtuan3955@gmail.com">![dinhtuan3955@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
