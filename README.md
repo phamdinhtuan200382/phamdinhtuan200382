@@ -7,7 +7,7 @@
 
 **About me:**
 - 🔭 I’m currently working on `Data Analytics`
-- 🥉 I have the experience to use `SQL`, `Python`and visualization tools such as `Power BI`, `Tableau` and `Data Studio`.
+- 🥉 I have the experience to use `SQL`, `Python`and visualization tools such as `Power BI`, `Tableau` and `Google Data Studio`.
 - ♥ My biggest passion is become `Data Storyteller`
 <p>
 <!-- GitHub Stats -->
