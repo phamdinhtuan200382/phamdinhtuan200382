@@ -1,5 +1,5 @@
 ### Welcome to my GitHub profile! :octocat:
-![](https://komarev.com/ghpvc/?username=phamdinhtuan200382&label=PROFILE+VIEWS)
+![GitHub profile views](https://komarev.com/ghpvc/?username=phamdinhtuan200382&label=PROFILE+VIEWS)
 ---
 
 
