@@ -11,6 +11,15 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 - :writing_hand: I spent hours to learn **```SQL```**, **```Python```** and visualisation tools such as **```Power BI```**, **```Tableau```** and **```Data Studio```**.
 - :sparkles: **My greatest passion:** using Data Visualisation to tell story within data and derive insights for business success.
 
-[![Tuan's github stats](https://github-readme-stats.vercel.app/api?username=phamdinhtuan200382&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phamdinhtuan200382&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamdinhtuan200382)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamdinhtuan200382&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>             
+
+<p align="center">
+  <img width="460" height="400" src="https://media.giphy.com/media/PipIpOPttgmv7mDKGs/giphy.gif">
+</p>
+
