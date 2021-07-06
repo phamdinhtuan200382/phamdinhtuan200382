@@ -19,7 +19,7 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamdinhtuan200382&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>             
 
-<p align="right">
+<!-- <p align="right">
   <img width="460" height="400" src="https://media.giphy.com/media/PipIpOPttgmv7mDKGs/giphy.gif">
-</p>
+</p> -->
 
